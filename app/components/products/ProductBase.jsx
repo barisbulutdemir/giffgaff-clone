@@ -14,7 +14,7 @@ export default function ProductBase() {
         </button>
       </div>
       <div>
-        <Image src={galaxybanner} className="w-[85%] mx-auto"/> 
+        <Image alt="prod" src={galaxybanner} className="w-[85%] mx-auto"/> 
       </div>
     </>
   );

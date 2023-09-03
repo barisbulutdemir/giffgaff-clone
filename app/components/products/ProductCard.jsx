@@ -13,7 +13,7 @@ export default function ProductCard() {
           </h3>
           <div className="flex">
             <div className="w-[40%]">
-                <Image className="w-[80%] mx-auto" src={iphone14pro} w- />
+                <Image  alt="imgg" className="w-[80%]  mx-auto" src={iphone14pro} w- />
             </div>
             <div className="w-[60%]">
               <div className=" bg-yellow-400 p-3 text-xl font-delagothic inline-block ">
@@ -71,7 +71,7 @@ export default function ProductCard() {
           </h3>
           <div className="flex">
             <div className="w-[40%]">
-                <Image className="w-[80%] mx-auto" src={iphone14pro} w- />
+                <Image className="w-[80%] mx-auto" alt="img" src={iphone14pro} w- />
             </div>
             <div className="w-[60%]">
               <div className=" bg-yellow-400 p-3 text-xl font-delagothic inline-block ">
@@ -129,7 +129,7 @@ export default function ProductCard() {
           </h3>
           <div className="flex">
             <div className="w-[40%]">
-                <Image className="w-[80%] mx-auto" src={iphone14pro} w- />
+                <Image className="w-[80%] mx-auto" alt="img" src={iphone14pro} w- />
             </div>
             <div className="w-[60%]">
               <div className=" bg-yellow-400 p-3 text-xl font-delagothic inline-block ">

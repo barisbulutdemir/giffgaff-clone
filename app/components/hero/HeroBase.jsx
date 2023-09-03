@@ -24,7 +24,7 @@ export default function HeroBase() {
       <HeroButtons />
       <Packages />
       <div >
-        <Image src={iphonepro} className="w-[80%] h-auto mx-auto mt-10 "/>
+        <Image alt="hero" src={iphonepro} className="w-[80%] h-auto mx-auto mt-10 "/>
       </div>
     </div>
   );

@@ -7,7 +7,7 @@ export default function Whysection() {
       <div className="w-full bg-pink-500  py-16">
         <h1 className="text-4xl font-delagothic text-center">Why giffgaff?</h1>
         <p className="text-center mt-5">
-          We’re up to good.{" "}
+          We re up to good.{" "}
           <span className="font-delagothic underline">Learn more</span>
         </p>
 
@@ -116,7 +116,7 @@ export default function Whysection() {
             </h4>
             <p className=" font-poppins mt-10 text-center mx-10">
               No calls, no fuss. Just Text PAC to 65075. You’ll get a code in 60
-              seconds. It’s super easy.
+              seconds. It s super easy.
             </p>
             <p className="underline mt-5 font-bold text-center text-cyan-600 cursor-pointer">
               Join now
@@ -147,7 +147,7 @@ export default function Whysection() {
             </h4>
             <p className=" font-poppins mt-10 text-center mx-10">
               Going away? You can use up to 5 GB of your full allowance while
-              you're in the EU. At no extra cost.
+              you re in the EU. At no extra cost.
             </p>
             <p className="underline mt-5 font-bold text-center text-cyan-600 cursor-pointer">
               Check your destination

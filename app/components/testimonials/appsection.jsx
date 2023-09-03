@@ -22,12 +22,12 @@ export default function AppSection() {
           <div className="space-y-4">
             <p className="text-white">Scan the QR Code</p>
             <div>
-              <Image src={qrimg} />
+              <Image alt="ss" src={qrimg} />
             </div>
           </div>
         </div>
         <div className="w-[30%]">
-          <Image src={apppic} className="" />
+          <Image alt="imgss" src={apppic} className="" />
         </div>
       </div>
     </div>
